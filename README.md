@@ -1,5 +1,7 @@
 - 👋 Hi, I’m @werdermann
-- 👀 I’m interested in frontend-, cross-platform-development
+- 👀 I’m interested in cross-platform-development
+- 📫 Check out my portfolio https://werdermann.github.io
+ 
 <!--
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
