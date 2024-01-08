@@ -1,3 +1,3 @@
-# App Developer
+**Hello there 👋**
 
-- 🎯 Currently working as a Flutter Dev [@NeustaMobileSolutions](https://neusta-ms.de/en/)
+I'm a software engineer at [Neusta Mobile Solutions](https://neusta-ms.de/en/) in Bremen, Germany
